@@ -183,7 +183,6 @@ export default function Home() {
                   Free resources: Access video tutorials anytime
                 </div>
               </div>
-
               <div className="hero-actions" style={{ marginTop: 18 }}>
                 <Link to="/sessions" className="btn btn-primary">Sign Up for a Session</Link>
                 <Link to="/tutorials" className="btn">Explore Tutorials</Link>
