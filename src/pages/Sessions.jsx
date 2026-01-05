@@ -15,7 +15,7 @@ function SessionCard({ title, desc, href }) {
         </a>
       </div>
       <div style={{ marginTop: 10, color: "var(--muted)", fontSize: 13 }}>
-        4 sessions total. 12 spots each. Beginner-friendly.
+        2 sessions. 12 spots each. Beginner-friendly: Ages 10-16.
       </div>
     </div>
   );
@@ -33,7 +33,7 @@ export default function Sessions() {
 
           <div className="cards-3">
             <SessionCard
-              title="Bethel Workshops"
+              title="Bethel Methodist Church Workshops"
               desc="Hands on sessions covering sewing basics and simple repairs."
               href={LINKS.bethel}
             />
