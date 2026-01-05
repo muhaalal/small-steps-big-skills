@@ -23,7 +23,7 @@ export default function About() {
             <div className="icon-bubble">✓</div>
             <h3>The Solution</h3>
             <p>
-              Through hands-on workshops and clear video tutorials, this Girl Scout Gold Award project makes sewing approachable and useful for real life. While the in-person sessions won’t last forever, the skills, and the resources created, are meant to support the community long-term.
+              Through hands-on workshops and clear video tutorials, this Girl Scout Gold Award project makes sewing accesible, easy-to-understand, and useful for real life. While the in-person sessions won’t last forever, the skills, and the resources created, are meant to support the community long-term.
             </p>
           </div>
         </div>
