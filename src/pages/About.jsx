@@ -34,7 +34,7 @@ export default function About() {
 
 
         <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
+      <img src="/allison1.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Allison Christensen</h2>
       <p style={{ marginBottom: 24, color: "#6b7280", fontWeight: 500,}}>
         Founder, Small Steps Big Skills
@@ -68,7 +68,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Beth Christensen</h2>
       <p
         style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
@@ -77,7 +76,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Dusty Graham</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
           Dusty serves as the Gold Award Project Advisor for Small Steps, Big Skills. As a retired Family and Consumer Science (Home Economics) teacher, she brings years of experience, guidance, and encouragement to the project.      
@@ -85,7 +83,7 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
+      <img src="/Bella.png" alt="Bella Francisco" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Bella Francisco</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
           Bella is a fellow Girl Scout who supports the project by helping with workshop sessions, organization, and preparation. She plays an important role in making participants feel welcome and supported.      
@@ -93,7 +91,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Alannah McCleerey</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Alannah is a member of Allison’s Girl Scout troop and assists with planning, session setup, and project preparation. Her involvement helps workshops run smoothly and successfully.
@@ -101,15 +98,15 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
-      <h2 style={{ marginBottom: 6 }}>Evelyn deForest</h2>
+      <img src="/Evelyn.png" alt="Evelyn DeForest" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
+      <h2 style={{ marginBottom: 6 }}>Evelyn DeForest</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Evelyn is a fellow Girl Scout who contributes to organizing materials and supporting sewing sessions. Her teamwork and reliability greatly contribute to the mission.
       </p>
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
+      <img src="/liv.png" alt="Liv Ray" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Liv Ray</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Liv is a Girl Scout who assists with workshop activities, preparation, and organization. Her positive energy, reliability, and willingness to help contribute create a meaningful impact.
@@ -117,7 +114,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Bill Graham</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Bill supports the project through preparing supplies, organizing materials, and assisting with logistics. His help ensures workshops are well-equipped and ready for participants.
@@ -125,7 +121,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Kate Christensen</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Kate contributes by helping organize materials and prepare supplies for workshops. She plays an important role in keeping the project running smoothly.
@@ -133,7 +128,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Wendy Weldon</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Wendy is the Makerspace Coordinator at the Central Library. Her support, quick communication, and willingness to collaborate have been essential in helping the project grow.
@@ -141,7 +135,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Karen Johnston</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Karen is a coordinator at Bethel Methodist Church. Her support in providing space and building community connections has helped make the sewing workshops possible.
@@ -149,7 +142,6 @@ export default function About() {
     </div>
 
     <div className="card" style={{ marginTop: 20, padding: 32, display: "flex", flexDirection: "column", alignItems: "center", }}>
-      <img src="/allison.jpg" alt="Allison Christensen" style={{ width: 260, height: 260, borderRadius: 16,objectFit: "cover",marginBottom: 20,}} />
       <h2 style={{ marginBottom: 6 }}>Ghufran Ali</h2>
       <p style={{ maxWidth: 700,textAlign: "left", lineHeight: 1.7, color: "#374151",fontSize: 16,}}>
         Ghufran is the website designer and developer for Small Steps, Big Skills. His work has helped the project reach more people and share resources online in a clear and accessible way.
